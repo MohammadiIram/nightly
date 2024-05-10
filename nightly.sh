@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # File containing the repository URL and the path
-config_file="./Digest_verifier/repo_url.txt"
+config_file="./repo_url.txt"
 
 # Check if the configuration file exists
 if [ ! -f "$config_file" ]; then
